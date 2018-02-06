@@ -14,6 +14,7 @@ class Song
     # self.new.save
     # self
     @@all << self.new
+    self
   end
 
 end
